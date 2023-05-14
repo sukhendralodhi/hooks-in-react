@@ -1,10 +1,10 @@
 import "./App.css";
-import ThirdComponent from "./use-ref-hook/thirdComponent";
+import Todo from "./use-reducer-hook/Todos";
 
 function App() {
   return (
     <>
-    <ThirdComponent />
+    <Todo />
     </>
   );
 }
