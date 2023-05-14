@@ -1,10 +1,10 @@
 import "./App.css";
-import Todo from "./use-reducer-hook/Todos";
+import FreeCode from "./use-reducer-hook/FreeCode";
 
 function App() {
   return (
     <>
-    <Todo />
+      <FreeCode />
     </>
   );
 }
